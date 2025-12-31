@@ -4,8 +4,6 @@
 
 This project is a Zig implementation of the classic Space Invaders game. It is a port of the [C++ tutorial by Programming With Nick](https://www.youtube.com/watch?v=TGo3Oxdpr5o), created as a hands-on exercise to learn Zig's syntax, memory management, and build system.
 
-## 🛠 Features (Current)
-
 ## 📋 TODO
 - [ ] **High Score System**: Implement persistent high scores by saving/loading from a local file.
 - [ ] **Enemy Difficulty**: Increase alien speed as the number of enemies decreases.
