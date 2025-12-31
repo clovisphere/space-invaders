@@ -114,7 +114,7 @@ pub fn main() !void {
         var offset: f32 = 60;
         for (0..@intCast(game.lives)) |_| {
             rl.drawTextureV(spaceship_image, .{ .x = offset, .y = 625 }, .white);
-            offset += 50;
+            offset += 60;
         }
 
         // Render score label.
