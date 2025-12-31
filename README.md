@@ -2,7 +2,7 @@
 
 > A retro arcade clone implemented in zig 🤭
 
-This project is a zig implementation of the classic Space Invaders game. It is a port of the [C++ tutorial by Programming With Nick](https://www.youtube.com/watch?v=TGo3Oxdpr5o), created as a hands-on exercise to learn Zig's syntax, memory management, and build system.
+This project is a zig implementation of the classic Space Invaders game. It is a port of the [C++ Space Invaders Tutorial with raylib](https://www.youtube.com/watch?v=TGo3Oxdpr5o), created as a hands-on exercise to learn zig's syntax, memory management, and build system.
 
 ## 📋 TODO
 - [ ] **High Score System**: Implement persistent high scores by saving/loading from a local file.
