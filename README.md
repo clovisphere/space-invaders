@@ -13,7 +13,7 @@ This project is a Zig implementation of the classic Space Invaders game. It is a
 
 > Prerequisites
 
-- [zig](https://ziglang.org/): Version 0.15.2.
+- [zig](https://ziglang.org/): version 0.15.2.
 
 > Usage
 
