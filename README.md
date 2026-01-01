@@ -1,6 +1,6 @@
 # Space Invaders 🚀
 
-> A retro arcade clone implemented in zig 🤭
+> A retro arcade clone 🤭
 
 This project is a zig implementation of the classic Space Invaders game. It is a port of the [C++ Space Invaders Tutorial with raylib](https://www.youtube.com/watch?v=TGo3Oxdpr5o), created as a hands-on exercise to learn zig's syntax, memory management, and build system.
 
